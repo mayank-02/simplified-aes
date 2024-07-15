@@ -7,15 +7,17 @@ Simplified AES (S-AES) is an educational tool designed to help students learn th
 - Key: 16 bit
 - Ciphertext: 16 bit
 
-<figure>
-    <img src="images/saes-structure.png" alt="S-AES Structure"/>
-    <figcaption align="center">SAES Structure</figcaption>
-</figure>
+<p align="center">
+  <img src="images/saes-structure.png" alt="S-AES Structure"/>
+  <br>
+  <i>SAES Structure</i>
+</p>
 
-<figure>
-    <img src="images/saes-key-expansion.png" alt="S-AES Key Expansion"/>
-    <figcaption align="center">Key Expansion</figcaption>
-</figure>
+<p align="center">
+  <img src="images/saes-key-expansion.png" alt="S-AES Key Expansion"/>
+  <br>
+  <i>Key Expansion</i>
+</p>
 
 ## Usage
 
